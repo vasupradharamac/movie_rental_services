@@ -15,7 +15,7 @@ This is an application that enables users to find and rent their favourite movie
 
 * Along with movie details, the users can also find data on how many times a movie has been rented. This in turn, will assist the users in finding most popular movies.
 
-# Techstack used
+# Techstack
 
 * **Frontend:** React JS
 * **Backend:** Node JS
