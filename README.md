@@ -17,6 +17,6 @@ This is an application that enables users to find and rent their favourite movie
 
 # Techstack used:
 
-* _Frontend: React JS
-* _Backend: Node JS
-* _DataBase: Mongo DB
+* **Frontend:** React JS
+* **Backend:** Node JS
+* **DataBase:** Mongo DB
