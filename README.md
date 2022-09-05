@@ -1,6 +1,6 @@
 # movie_rental_services
 
-Movie Rental Services is an application that enables users to find and rent their favourite movies.
+Movie Rental Services is an application that enables users to find and rent movies.
 
 
 # Features of the app
