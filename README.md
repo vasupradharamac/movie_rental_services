@@ -5,9 +5,9 @@ This is an application that enables users to find and rent their favourite movie
 
 # Features of the app
 
-* An efficient and user-friendly UI to help users in searching and renting movies of their preferences.
+* The application provides an efficient and user-friendly UI to help users in searching and renting movies of their preferences.
 
-* Movies are provided with additional information such as description, cast and poster (in the form of tile) to help user decide better.
+* Movie data are provided with additional information such as description, cast and poster (in the form of tile) to help user decide better.
 
 * The app's search feature enables users to find movies based on the title or cast.
 
