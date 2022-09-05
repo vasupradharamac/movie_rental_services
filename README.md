@@ -3,7 +3,7 @@
 This is an application that enables users to find and rent their favourite movies.
 
 
-# Features of the app:
+# Features of the app
 
 * An efficient and user-friendly UI to help users in searching and renting movies of their preferences.
 
@@ -15,7 +15,7 @@ This is an application that enables users to find and rent their favourite movie
 
 * Along with movie details, the users can also find data on how many times a movie has been rented. This in turn, will assist the users in finding most popular movies.
 
-# Techstack used:
+# Techstack used
 
 * **Frontend:** React JS
 * **Backend:** Node JS
